@@ -1,6 +1,8 @@
 # CCD-project
 Continuous Collision Detection in 3-D
 
+Please read the CCD paper before running the application. The file is titled CCDpaper.pdf
+
 * Note: The simulation is not perfect, and requires some work (specifically in terms of
   optimization and cable collisions). Also the plane only serves as a visual aid, there
   are no collisions with it.
